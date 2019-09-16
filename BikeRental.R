@@ -32,7 +32,7 @@ names(RentalData)
 str(RentalData)
 
 
-##########################Feature engineering##########################
+##########################Feature engineering#########################
 
 #Create columns
 
